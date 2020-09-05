@@ -1,2 +1,2 @@
-# dt-art-portfolio
-daily trojan art portfolio
+# art-by-daily-trojan
+art by daily trojan
